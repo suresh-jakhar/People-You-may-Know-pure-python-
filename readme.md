@@ -8,19 +8,6 @@ This is a friendship recommendation system implemented in pure Python without ex
 
 ## How It Works
 
-### Data Structure
-The system expects a JSON file (`massive_data.json`) with this structure:
-```json
-{
-    "users": [
-        {
-            "id": 1,
-            "friends": [2, 3, 4]
-        },
-        ...
-    ]
-}
-```
 
 ### Recommendation Algorithm
 The system follows these steps:

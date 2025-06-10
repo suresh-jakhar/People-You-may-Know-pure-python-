@@ -1,6 +1,3 @@
-Here's the `README.md` file for your "People You May Know" recommendation system:
-
-```markdown
 # People You May Know - Pure Python Recommendation System
 
 ## Overview
